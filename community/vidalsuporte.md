@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidalsuporte/)  	[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532991203111)  	[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vidalsuporte@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={vidalsuporte}&theme=blue-green) ![](	https://github-readme-stats.vercel.app/api?username={vidalsuporte}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidalsuporte&theme=blue-green) ![](https://github-readme-stats.vercel.app/api?username=vidalsuporte&theme=blue-green)
 
 ## Estou desenvolvendo minhas HardSkils
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
